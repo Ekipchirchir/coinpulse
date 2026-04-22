@@ -2,7 +2,7 @@ import React from 'react'
 
 const Page = () => {
   return (
-    <p className='text-3xl text-indigo-500'>CoinPulse- The best Crypto analysis platform</p>
+    <div></div>
   )
 }
 
